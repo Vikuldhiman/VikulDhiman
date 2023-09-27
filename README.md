@@ -1,6 +1,6 @@
 ![Header](https://res.cloudinary.com/dpmrdlqgt/image/upload/v1695622113/Green_Organic_Quote_Poster_1_kq6xfx.png)
 # 💫 About Me:
-🔭 I’m currently Pursuing MCA from KIET Group Of Institutions <br>🌱 I’m also learning JAVA, React, BootStrap, JavaScript and Git&Github<br>👨‍💻 All of my projects are available at github.com/Vikuldhiman<br>💬 if any doubt , Ask me questions about that @iam.vikuldhiman<br>⚡ Fun fact I am down to earth and entertaining person
+🔭 I’m currently Pursuing MCA from KIET Group Of Institutions <br>🌱 I’m also learning JAVA, React, BootStrap, JavaScript and Git&Github<br>👨‍💻 All of my projects are available at github.com/Vikuldhiman<br>💬 if any doubt, Ask me questions about that @iam.vikuldhiman<br>⚡ Fun fact I am down to earth and entertaining person
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-### ✍️ Random Quote
+### ✍️ Daily Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
